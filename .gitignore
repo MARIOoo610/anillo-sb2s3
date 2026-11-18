@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*.hdf5
+Resonador_anillo_comsol/
+papers/
